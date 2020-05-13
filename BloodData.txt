@@ -1,0 +1,53 @@
+
+ ---------------- 
+ name of patient :jhgj
+ Hospital Name :ndfj
+ Blood group :jsfnjlStatus : Blood Donated
+ ---------------- 
+ name of patient :krishna
+ Hospital Name :ram
+ Blood group :bStatus : Blood Donated
+ ---------------- 
+ name of patient :
+ Hospital Name :sham
+ Blood group :aStatus : Blood requested
+ ---------------- 
+ name of patient :krishna
+ Hospital Name :sai
+ Blood group :bStatus : Blood Donated
+ ---------------- 
+ name of patient :
+ Hospital Name :dvjd
+ Blood group :aStatus : Blood requested
+ ---------------- 
+ name of patient :sk
+ Hospital Name :gbd
+ Blood group :aStatus : Blood Donated
+ ---------------- 
+ name of patient :
+ Hospital Name :fbbg
+ Blood group :bStatus : Blood Donated
+ ---------------- 
+ name of patient :sk1
+ Hospital Name :fsdj
+ Blood group :abStatus : Blood Donated
+ ---------------- 
+ name of patient :
+ Hospital Name :fv
+ Blood group :oStatus : Blood requested
+ ---------------- 
+ name of patient :sk
+ Hospital Name :fdj
+ Blood group :oStatus : Blood Donated
+ ---------------- 
+ name of patient :sk1
+ Hospital Name :fhab
+ Blood group :aStatus : Blood Donated
+ ---------------- 
+ name of patient :sk2
+ Hospital Name :fha
+ Blood group :abStatus : Blood Donated
+ ---------------- 
+ name of patient :
+ Hospital Name :sfji
+ Blood group :oStatus : Blood requested
